@@ -1,0 +1,9 @@
+* prove
+
+Yet another unit testing framework for Common Lisp
+
+|---------+--------------------------------------------|
+| source  | git:https://github.com/fukamachi/prove.git |
+| commit  | 5d71f02                                    |
+| systems | prove                                      |
+|---------+--------------------------------------------|
